@@ -3,8 +3,7 @@
 I'm Bruno, a backend developer in training focused on Java.
 My goal is to build programs and tools that make everyday tasks quicker and easier for anyone.
 
-![Greeting](./assets/welcome.gif)
-
+![Greeting](https://communityone.io/media/emojis/209/asuna-welcome-anime-emoji-1455976015091204209.gif)
 ## Skills
 
 - **Languages:** Java, PHP, Python, JavaScript
@@ -14,7 +13,7 @@ My goal is to build programs and tools that make everyday tasks quicker and easi
 
 ## Projects
 
-### [Librería Ítaca](link-al-repo) (work in progress)
+### [Librería Ítaca](https://github.com/KatzeTrinktMate/Sis_Inventario_JV) (work in progress)
 
 Inventory management system for a bookstore.
 
@@ -22,7 +21,7 @@ Inventory management system for a bookstore.
 - **Frontend:** TypeScript with Angular (in progress)
 - **Database:** PostgreSQL
 
-### [NanoCatxz](link-al-repo)
+### [NanoCatxz](https://github.com/Ttho0mas/Proyecto_NanoCatxz)
 
 Web administration app built for Microfix as my high school final project.
 
