@@ -3,7 +3,7 @@
 I'm Bruno, a backend developer in training focused on Java.
 My goal is to build programs and tools that make everyday tasks quicker and easier for anyone.
 
-![Greeting](assets/welcome2.gif)
+![Greeting](assets/welcome2.gif)  <img src="assets/mate.gif" alt="mate" width="100" height="100">
 ## Skills
 
 - **Languages:** Java, PHP, Python, JavaScript
@@ -17,7 +17,7 @@ My goal is to build programs and tools that make everyday tasks quicker and easi
 Inventory management system for a bookstore.
 
 - **Backend:** Java (Spring Boot planned)
-- **Frontend:** TypeScript with Angular (in progress)   <img src="assets/mate.gif" alt="mate" width="50" height="50">
+- **Frontend:** TypeScript with Angular (in progress)   
 - **Database:** PostgreSQL
 
 ### [NanoCatxz](https://github.com/Ttho0mas/Proyecto_NanoCatxz)
