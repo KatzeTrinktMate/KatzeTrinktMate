@@ -3,7 +3,7 @@
 I'm Bruno, a backend developer in training focused on Java.
 My goal is to build programs and tools that make everyday tasks quicker and easier for anyone.
 
-![Greeting](assets/welcome2.gif)  <img src="assets/mate.gif" alt="mate" width="100" height="100">
+![Greeting](assets/welcome2.gif) 
 ## Skills
 
 - **Languages:** Java, PHP, Python, JavaScript
