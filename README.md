@@ -3,7 +3,7 @@
 I'm Bruno, a backend developer in training focused on Java.
 My goal is to build programs and tools that make everyday tasks quicker and easier for anyone.
 
-![Greeting](https://communityone.io/media/emojis/209/asuna-welcome-anime-emoji-1455976015091204209.gif)
+![Greeting](assets/welcome.gif)
 ## Skills
 
 - **Languages:** Java, PHP, Python, JavaScript
