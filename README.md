@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, welcome! ヾ(^v^)
 
-<!--
-**KatzeTrinktMate/KatzeTrinktMate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Bruno, a backend developer in training focused on Java.
+My goal is to build programs and tools that make everyday tasks quicker and easier for anyone.
 
-Here are some ideas to get you started:
+![Greeting](./assets/welcome.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Languages:** Java, PHP, Python, JavaScript
+- **Databases:** PostgreSQL, MySQL
+- **Tools:** VS Code, IntelliJ IDEA, Git, Docker
+- **Currently learning:** TypeScript, Angular, Spring Boot
+
+## Projects
+
+### [Librería Ítaca](link-al-repo) (work in progress)
+
+Inventory management system for a bookstore.
+
+- **Backend:** Java (Spring Boot planned)
+- **Frontend:** TypeScript with Angular (in progress)
+- **Database:** PostgreSQL
+
+### [NanoCatxz](link-al-repo)
+
+Web administration app built for Microfix as my high school final project.
+
+- **Architecture:** MVC
+- **Backend:** PHP
+- **Frontend:** HTML, CSS, JavaScript
+- **Database:** MySQL
