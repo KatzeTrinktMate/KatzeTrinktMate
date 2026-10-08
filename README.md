@@ -3,7 +3,7 @@
 I'm Bruno, a backend developer in training focused on Java.
 My goal is to build programs and tools that make everyday tasks quicker and easier for anyone.
 
-![Greeting](assets/welcome.gif)
+![Greeting](assets/welcome2.gif)
 ## Skills
 
 - **Languages:** Java, PHP, Python, JavaScript
@@ -11,7 +11,7 @@ My goal is to build programs and tools that make everyday tasks quicker and easi
 - **Tools:** VS Code, IntelliJ IDEA, Git, Docker
 - **Currently learning:** TypeScript, Angular, Spring Boot
 
-## Projects
+## Projects <img src="assets/mate.gif" alt="mate" width="20" height="20">
 
 ### [Librería Ítaca](https://github.com/KatzeTrinktMate/Sis_Inventario_JV) (work in progress)
 
