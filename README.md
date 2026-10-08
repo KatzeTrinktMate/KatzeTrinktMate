@@ -1,4 +1,4 @@
-# Hi, welcome! ヾ(^v^)
+# Hi, welcome! ヾ(^v^) ![Hallo uwu](https://i.redd.it/nalvxn1l835h1.gif)
 
 I'm Bruno, a backend developer in training focused on Java.
 My goal is to build programs and tools that make everyday tasks quicker and easier for anyone.
