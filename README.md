@@ -1,7 +1,7 @@
 # Hi, welcome! ヾ(^v^)
 
-I'm Bruno, a backend developer in training focused on Java.
-My goal is to build programs and tools that make everyday tasks quicker and easier for anyone.
+I'm Bruno, a backend developer student :rage3:.
+My goal is to build programs and tools that make everyday tasks quicker and easier for anyone 🧉.
 
 ![Greeting](assets/welcome2.gif) 
 ## Skills
