@@ -7,18 +7,11 @@ My goal is to build programs and tools that make everyday tasks quicker and easi
 ## Skills
 
 - **Languages:** Java, PHP, Python, JavaScript
-- **Databases:** PostgreSQL, MySQL
-- **Tools:** VS Code, IntelliJ IDEA, Git, Docker
-- **Currently learning:** TypeScript, Angular, Spring Boot
+- **Databases:** MySQL
+- **Tools:** VS Code, IntelliJ IDEA, Git.
+- **Currently learning:** TypeScript, Angular, Docker
 
-## Projects 
-### [Librería Ítaca](https://github.com/KatzeTrinktMate/Sis_Inventario_JV) (work in progress)
-
-Inventory management system for a bookstore.
-
-- **Backend:** Java (Spring Boot planned)
-- **Frontend:** TypeScript with Angular (in progress)   
-- **Database:** PostgreSQL
+## Projects
 
 ### [NanoCatxz](https://github.com/Ttho0mas/Proyecto_NanoCatxz)
 
