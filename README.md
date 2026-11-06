@@ -9,7 +9,7 @@ My goal is to build programs and tools that make everyday tasks quicker and easi
 - **Languages:** Java, PHP, Python, JavaScript
 - **Databases:** MySQL
 - **Tools:** VS Code, IntelliJ IDEA, Git.
-- **Currently learning:** TypeScript, Angular, Docker
+- **Currently learning:** Docker
 
 ## Projects
 
